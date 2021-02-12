@@ -15,8 +15,8 @@
   }
   
   .ce-active-chat-card {
-    background-color: #cabcdc !important;
-    border: 4px solid #cabcdc !important;
+    background-color: #bcc2dc !important;
+    border: 4px solid #bfbcdc !important;
     border-radius: 0px !important;
   }
   
@@ -35,7 +35,7 @@
   
   .ce-primary-button {
     border-radius: 6px !important;
-    background-color: #7554a0 !important;
+    background-color: #6a508a !important;
     position: relative;
     bottom: 1px;
   }
