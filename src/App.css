@@ -147,7 +147,7 @@
 
 
   .message-image:hover {
-    transition: transform 0.4s ease-in;
+/*    transition: transform 0.4s ease-in;
     overflow: hidden;
 
     -ms-transform: scale(1.3); /* IE 9 */
@@ -157,7 +157,7 @@
     opacity: 98%;
     /* cursor:zoom-in; */
     /* cursor:zoom-in; */
-    background-size: 100%;
+    background-size: 100%; */
   }
 
 
